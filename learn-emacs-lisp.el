@@ -60,6 +60,8 @@
 ;; From `lisp-interaction-mode' you can evaluate sexps.
 ;; Put the cursor right after the closing parenthesis then
 ;; hold down the control and hit the j keys ("C-j" for short).
+;; TODO say hello
+
 
 (+ 3 (+ 1 2))
 ;;           ^ cursor here
@@ -334,4 +336,3 @@
 ;;
 ;; To read an online introduction to Emacs Lisp:
 ;; https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html
-

@@ -4,6 +4,8 @@
 # the script: https://en.wikipedia.org/wiki/Shebang_(Unix)
 # As you already figured, comments start with #. Shebang is also a comment.
 
+# TODO say hello
+
 # Simple hello world example:
 echo Hello world! # => Hello world!
 
@@ -491,4 +493,3 @@ info bash
 info bash 'Bash Features'
 info bash 6
 info --apropos bash
-

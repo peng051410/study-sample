@@ -5,6 +5,7 @@
 ;;;-----------------------------------------------------------------------------
 
 ;;; General form
+;; TODO say hello
 
 ;;; CL has two fundamental pieces of syntax: ATOM and S-EXPRESSION.
 ;;; Typically, grouped S-expressions are called `forms`.
@@ -648,4 +649,3 @@ nil                    ; false; also, the empty list: ()
 ;;; regular code.
 
 ;;; See Practical Common Lisp and On Lisp for more information on macros.
-
